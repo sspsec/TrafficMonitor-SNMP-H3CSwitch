@@ -1,0 +1,2 @@
+# TrafficMonitor-SNMP-H3CSwitch
+对于H3C交换机通过SNMP监控各个接口的实时流量绘制折线图
